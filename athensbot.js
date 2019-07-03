@@ -20,11 +20,11 @@ var twit = require('twit');
 //var TwitterBot=require("node-twitterbot").TwitterBot;
 
 var T = new twit({
-	consumer_key: '57WKHlzFUSuvE72thbvOa4NXH',
-	consumer_secret: 'jxlDMPl9Xm7JgyKfKxIL6yb57bSgb1RNnmsptomX2vWaTVSdgT',
-	access_token: '962120311394242560-ZqOiaaREGNXMXEKetLTeFqsGtitkk00',
-	access_token_secret: '3h03VEYirIedWq8vefG6SQwpZ8blZssrCLe6lLpalOMpJ'
-});
+	consumer_key: '',
+	consumer_secret: '',
+	access_token: '',
+	access_token_secret: ''
+}); USE .env in future
 //add who are our sponsors to an answerable question
 
 
